@@ -105,6 +105,11 @@ I tried or considered:
     rebuilding and potentially updating my code to keep up with changes.  This seemed an inferior option to this
     KeyboardMouse program.
 
+  * Writing code for the xkb database: I investigated this but didn't actually do any experimentation with it.  I believe it
+    should work, but there seemed to be a lot to learn to figure out how to do it.  I couldn't put an upper bound on how long
+    it might take for me to implement the functionality I wanted this way as opposed to the approach I used with
+    KeyboardMouse, which I knew how to do after reading a bit about the Linux uinput interface.
+
 License
 -------
 
