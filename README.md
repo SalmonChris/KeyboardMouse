@@ -1,5 +1,5 @@
-    KeyboardMouse User Guide
-    ------------------------
+KeyboardMouse User Guide
+------------------------
 
 This is a small utility program for Linux to map keyboard key combinations to mouse movement and button clicks.  It should
 work on any modern Linux system.
@@ -54,8 +54,8 @@ This program doesn't read any sort of configuration file.  Instead, if you want 
 combinations or have modified behavior in another way, please just modify your copy of the source code.
 
 
-    WHY I WROTE THIS
-    ----------------
+WHY I WROTE THIS
+----------------
 
 I wrote this because I couldn't find any easier way to get the functionality I was looking for.  I spent a couple of days
 trying to get this functionality.  I did a lot of Google searches and reading and experimentation.  Here are the approaches
@@ -105,8 +105,8 @@ I tried or considered:
     rebuilding and potentially updating my code to keep up with changes.  This seemed an inferior option to this
     KeyboardMouse program.
 
-    License
-    -------
+License
+-------
 
 I've placed this code in the public domain.  That means I've voluntarily given up my copyright claims on it.  You can use it
 however you like.
