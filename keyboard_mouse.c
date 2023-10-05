@@ -305,7 +305,7 @@ extern int main(int argc, const char *argv[])
                 int button_code;
                 switch (incoming[1].code)
                   {
-                    case 126:
+                    case KEY_RIGHTMETA:
                         super_held = (incoming[1].value != 0);
                         break;
                     case 17: /* W */
